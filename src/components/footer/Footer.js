@@ -24,8 +24,7 @@ export default function Footer() {
         rel="noopener noreferrer"
         target="_blank"
         className="text-cyan-dark font-bold ml-1 hover:font-bold"
-      >
-        Rahul Choudhary
+      >Rahul Choudhary
       </a>
       .
     </div>
